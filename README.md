@@ -5,7 +5,7 @@
  
   ![Badge](https://img.shields.io/static/v1?label=DEV&message=Tamila&color=eed065&style=flat&logo=)
  
- ![homepage](https://github.com/TamilaCambe/Login-Magic/blob/main/assets/C%C3%B3pia%20de%20Design%20sem%20nome%20(2).gif)
+ ![homepage](https://github.com/TamilaCambe/Login-Magic/blob/main/assets/Design%20sem%20nome%20(6).gif)
  
  ## Explanation 📑
  
