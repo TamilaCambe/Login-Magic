@@ -9,7 +9,7 @@
  
  ## Explanation 📑
  
- <p> Small project made in order to train some CSS animations. <p>
+ <p> Small project made to train some CSS animations and also responsiveness.. <p>
  
  ## 💻 Technologies used
 
